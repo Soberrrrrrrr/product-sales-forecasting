@@ -10,3 +10,4 @@ In a personal endevaour to learn about time series analysis and forecasting, I d
 2. Holt-Winters Model (Triple Exponential Smoothing)
 3. ARIMA and Seasonal ARIMA Models
 4. Linear Regression Model
+5. 
